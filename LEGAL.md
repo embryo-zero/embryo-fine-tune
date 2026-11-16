@@ -1,7 +1,7 @@
 # Legal notes for Embryo Fine-Tune
 
 Embryo Fine-Tune is a modified version of **unsloth** (https://github.com/unslothai/unsloth), copyright its authors.
-License (read from its license file on 2026-11-16): **AGPL-3.0**. Original license files, unchanged: COPYING, LICENSE.
+License (read from its license file on 2026-11-16): **Apache-2.0 for the core package (LICENSE); AGPL-3.0 for some other parts (COPYING, see README)** (read by a person). Original license files, unchanged: COPYING, LICENSE.
 
 - `COPYING`: GNU AFFERO GENERAL PUBLIC LICENSE / Version 3, 19 November 2007 / Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 - `LICENSE`: Apache License / Version 2.0, January 2004 / http://www.apache.org/licenses/
